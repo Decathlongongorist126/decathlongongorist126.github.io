@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Daily Byte",
-  description: "Daily codex",
+  description: "Daily Byte - 代码随笔",
   head: [
     [
       'style',
