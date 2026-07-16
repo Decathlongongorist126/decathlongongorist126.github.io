@@ -52,7 +52,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/daishaoshuai/daishaoshuai.github.io' }
+      { icon: 'github', link: 'https://github.com/daiss1984/daiss1984.github.io' }
     ]
   }
 })
